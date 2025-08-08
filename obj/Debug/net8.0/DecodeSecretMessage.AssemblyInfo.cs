@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecodeSecretMessage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b4a70b1ff6a72ca92e1b6c1d85494c1daa1b61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e301f384423e96e0840ae900d8cb560d8bd472fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecodeSecretMessage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecodeSecretMessage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
