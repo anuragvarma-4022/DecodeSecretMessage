@@ -1,4 +1,6 @@
-I developed this product with the help of AI.
+A quick C# and .NET project to demonstrate reading a google doc and decoding encrypted message. I developed this product with the help of AI.
+
+<img width="1439" height="714" alt="image" src="https://github.com/user-attachments/assets/24f5df25-59ca-420f-ab1d-b2fb82042634" />
  
  # DecodeSecretMessage
 
